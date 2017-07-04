@@ -30,6 +30,7 @@ nav span {
 
 .main.container {
   display: flex;
+  top: 80px;
 }
 
 .column.large {
