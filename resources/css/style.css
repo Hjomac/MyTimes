@@ -27,6 +27,6 @@ header .navigation span {
   display: inline-block;
 }
 
-.navigation span {
+.navigation a {
   color: black;
 }
