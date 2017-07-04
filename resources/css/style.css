@@ -23,10 +23,27 @@ header {
   color: Mediumaquamarine;
 }
 
-header .navigation span {
+nav span {
   display: inline-block;
+  color: #000000;
 }
 
-.navigation a {
-  color: black;
+.main.container {
+  display: flex;
+}
+
+.column.large {
+  display: flex;flex-flow: wrap column;
+  width: 630px;
+}
+
+.column.medium {
+  display: flex;
+  flex-direction property: column;
+  width: 300px;
+}
+
+.column.small {
+  display: flex;flex-flow: wrap column;
+  width: 240px;
 }
