@@ -23,7 +23,7 @@ header {
   color: Mediumaquamarine;
 }
 
-nav span {
+header nav span {
   display: inline-block;
   color: black;
 }
