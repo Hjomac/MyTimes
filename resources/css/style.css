@@ -38,6 +38,10 @@ nav span {
   border: 2px solid black;
 }
 
+.column.large .lead-story .narrative {
+  border: 1px solid #000000;
+}
+
 .column.medium {
   display: flex;
   flex-direction property: column;
