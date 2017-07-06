@@ -30,8 +30,9 @@ nav span {
 
 .main.container {
   display: inline-flex;
-  margin-top: 80px;
-  padding-top: 80px;
+  justify-content: center;
+  margin: 0 auto 78px auto;
+  padding-top: 116px;
   border: 1px solid #000000;
 }
 
@@ -53,9 +54,6 @@ nav span {
   border: 1px solid #000000;
 }
 
-.content > span {
-  border: 1px solid #000000;
-}
 
 
 
