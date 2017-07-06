@@ -25,11 +25,13 @@ header {
 
 nav span {
   display: inline-block;
+  padding-right: 40px;
   color: #000000;
 }
 
 .main.container {
   display: inline-flex;
+  position: relative;
   justify-content: center;
   margin: 0 auto 78px auto;
   padding-top: 116px;
