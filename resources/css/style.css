@@ -53,6 +53,10 @@ nav span {
   border: 1px solid #000000;
 }
 
+span {
+  border: 1px solid #000000;
+}
+
 
 
 
@@ -73,6 +77,5 @@ nav span {
   border: 2px solid black;
 }
 
-.column.large h1 h2 p {
-  border: 1px solid black;
+
 }
