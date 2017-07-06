@@ -29,19 +29,34 @@ nav span {
 }
 
 .main.container {
-  display: flex;
+  display: inline-flex;
   top: 80px;
 }
 
 .column.large {
-  display: flex;flex-flow: wrap column;
+  display: flex; flex-flow: wrap column;
   width: 630px;
   border: 2px solid black;
 }
 
-.column.large .lead-story .narrative {
+.content {
   border: 1px solid #000000;
 }
+
+.lead-story {
+  border: 1px solid #000000;
+}
+
+.narrative {
+  border: 1px solid #000000;
+}
+
+
+
+
+
+
+
 
 .column.medium {
   display: flex;
