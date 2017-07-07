@@ -55,14 +55,6 @@ nav span {
   border: 1px solid #000000;
 }
 
-
-
-
-
-
-
-
-
 .column.medium {
   display: flex;flex-flow: wrap column;
   width: 300px;
@@ -73,7 +65,4 @@ nav span {
   display: flex;flex-flow: wrap column;
   width: 240px;
   border: 2px solid black;
-}
-
-
 }
