@@ -68,7 +68,7 @@ a {
 
 .mainstory {
   display: flex;
-  felx-direction: column;
+  flex-direction: column;
 }
 
 .mainheadline {
@@ -78,7 +78,7 @@ a {
 .mainheadline.image-text {
   display: flex;
   align-items: center;
-  font-size 40px;
+  font-size: 40px;
   text-align: center;
 }
 
@@ -106,8 +106,12 @@ a {
   background-image: url("../images/cameraman.png");
 }
 
+.cat {
+  background-image: url("../images/cat");
+}
+
 .image-text {
-  dislay: flex;
+  display: flex;
   align-items: center;
   text-align: center;
   height: 300px;
@@ -157,7 +161,7 @@ footer {
   height: 300px;
   background-color: MediumAquamarine;
   margin: auto;
-  font-family: Vedana;
+  font-family: Verdana;
   font-size: 12px;
 }
 
