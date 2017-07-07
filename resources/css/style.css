@@ -56,10 +56,18 @@ header {
   border: 1px solid #000000;
 }
 
+.lead-story span {
+  background-image: url(./resources/images/dinner.png);
+}
+
 .column.medium {
   display: inline-flex;flex-flow: wrap column;
   width: 300px;
   border: 2px solid black;
+}
+
+.column.medium span {
+  background-image: url(./resources/images/cat.png);
 }
 
 .column.small {
