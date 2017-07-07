@@ -30,7 +30,7 @@ nav span {
 
 .main.container {
   display: flex;
-  position: absolute;
+  position: relative;
   justify-content: center;
   margin-top: 60px;
   margin-bottom: 60px;
