@@ -6,6 +6,7 @@ header {
   width: 100%;
   height: 80px;
   border-bottom: 1px solid black;
+  padding-bottom: 80px;
   background-color: white;
   font-family: Verdana;
   font-size: 14px;
@@ -32,8 +33,8 @@ nav span {
   display: inline-flex;
   position: relative;
   justify-content: center;
-  margin-top: 87px
-  padding-top: 20px;
+  margin-top: 87px;
+  padding-top: 87px;
   border: 1px solid #000000;
 }
 
