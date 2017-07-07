@@ -57,7 +57,7 @@ header {
 }
 
 .lead-story span {
-  background-image: url(../resources/images/dinner.png);
+  background-image: src=./resources/images/dinner.png;
 }
 
 .column.medium {
